@@ -1,10 +1,9 @@
 package com.vehicle.rental.rental;
 
-import java.util.ArrayList;
-import java.util.List;
-
 import com.vehicle.rental.customer.Customer;
 import com.vehicle.rental.vehicle.Vehicle;
+import java.util.ArrayList;
+import java.util.List;
 
 public class RentalAgency {
 	private List<Vehicle> vehicles;
