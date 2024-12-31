@@ -1,9 +1,8 @@
 package com.vehicle.rental.customer;
 
+import com.vehicle.rental.rental.RentalTransaction;
 import java.util.ArrayList;
 import java.util.List;
-
-import com.vehicle.rental.rental.RentalTransaction;
 
 public class Customer {
 	private String name;
